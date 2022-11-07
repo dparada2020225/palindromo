@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/palindromo/static/js/main.4ca06380.js",
+    "static/js/787.999ef843.chunk.js": "/palindromo/static/js/787.999ef843.chunk.js",
+    "index.html": "/palindromo/index.html",
+    "main.4ca06380.js.map": "/palindromo/static/js/main.4ca06380.js.map",
+    "787.999ef843.chunk.js.map": "/palindromo/static/js/787.999ef843.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4ca06380.js"
+  ]
+}
