@@ -1,6 +1,6 @@
 ### `host/deploy`
 
-[NumeroPrimos.com](https://dparada2020225.github.io/palindromo/)
+[palindromo.com](https://dparada2020225.github.io/palindromo/)
 
 ### ` npm install`
 Ejecuta en una terminal con la dirección en donde se encuentra el proyecto "npm install" para instalar los módulos necesarios
